@@ -1,6 +1,6 @@
 # STOP CISPA
 
-Please feel free to use this template for the [January 22 CISPA blackout protest](http://www.reddit.com/r/technology/comments/1cp5d7/anonymous_calls_for_internet_blackout_on_april_22/).
+Please feel free to use this template for the [April 22 CISPA blackout protest](http://www.reddit.com/r/technology/comments/1cp5d7/anonymous_calls_for_internet_blackout_on_april_22/).
 
 You can use the provided **`index.html`** as your site's homepage during the blackout as one possible way to participate.
 
